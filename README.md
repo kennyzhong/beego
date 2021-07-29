@@ -25,7 +25,7 @@ It is inspired by Tornado, Sinatra and Flask. beego has some Go-specific feature
 ```go
 package main
 
-import "github.com/astaxie/beego"
+import "github.com/kennyzhong/beego"
 
 func main(){
     beego.Run()

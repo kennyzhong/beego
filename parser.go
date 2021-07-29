@@ -38,7 +38,7 @@ import (
 var globalRouterTemplate = `package {{.routersDir}}
 
 import (
-	"github.com/astaxie/beego"
+	"github.com/kennyzhong/beego"
 	"github.com/kennyzhong/beego/context/param"{{.globalimport}}
 )
 

@@ -19,7 +19,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/astaxie/beego"
+	"github.com/kennyzhong/beego"
 	"github.com/kennyzhong/beego/context"
 	"github.com/kennyzhong/beego/plugins/auth"
 	"github.com/casbin/casbin"

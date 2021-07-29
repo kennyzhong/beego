@@ -23,7 +23,7 @@ import (
 
 	"github.com/prometheus/client_golang/prometheus"
 
-	"github.com/astaxie/beego"
+	"github.com/kennyzhong/beego"
 	"github.com/kennyzhong/beego/logs"
 )
 

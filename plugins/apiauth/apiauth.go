@@ -16,7 +16,7 @@
 //
 // Simple Usage:
 //	import(
-//		"github.com/astaxie/beego"
+//		"github.com/kennyzhong/beego"
 //		"github.com/kennyzhong/beego/plugins/apiauth"
 //	)
 //
@@ -65,7 +65,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/astaxie/beego"
+	"github.com/kennyzhong/beego"
 	"github.com/kennyzhong/beego/context"
 )
 

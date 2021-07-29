@@ -6,7 +6,7 @@ an example for use captcha
 package controllers
 
 import (
-	"github.com/astaxie/beego"
+	"github.com/kennyzhong/beego"
 	"github.com/kennyzhong/beego/cache"
 	"github.com/kennyzhong/beego/utils/captcha"
 )

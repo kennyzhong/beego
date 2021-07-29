@@ -15,7 +15,7 @@
 // Package cors provides handlers to enable CORS support.
 // Usage
 //	import (
-// 		"github.com/astaxie/beego"
+// 		"github.com/kennyzhong/beego"
 //		"github.com/kennyzhong/beego/plugins/cors"
 // )
 //
@@ -42,7 +42,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/astaxie/beego"
+	"github.com/kennyzhong/beego"
 	"github.com/kennyzhong/beego/context"
 )
 

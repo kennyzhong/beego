@@ -21,7 +21,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/astaxie/beego"
+	"github.com/kennyzhong/beego"
 	"github.com/kennyzhong/beego/context"
 )
 

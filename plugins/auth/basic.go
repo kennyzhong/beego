@@ -15,7 +15,7 @@
 // Package auth provides handlers to enable basic auth support.
 // Simple Usage:
 //	import(
-//		"github.com/astaxie/beego"
+//		"github.com/kennyzhong/beego"
 //		"github.com/kennyzhong/beego/plugins/auth"
 //	)
 //
@@ -40,7 +40,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/astaxie/beego"
+	"github.com/kennyzhong/beego"
 	"github.com/kennyzhong/beego/context"
 )
 
